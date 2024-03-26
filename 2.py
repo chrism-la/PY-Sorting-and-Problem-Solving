@@ -6,5 +6,5 @@ def sort_list(list):
 
 arr = [5,3,4,2,1]
 
-print(sort_list(arr))
-print(arr)
+print("Sorted List:", sort_list(arr))
+print("Original List:", arr)
